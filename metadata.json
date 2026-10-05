@@ -1,0 +1,6 @@
+{
+  "name": "Dungeon Quest",
+  "description": "Cute Fantasy style MMORPG (alpha)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
